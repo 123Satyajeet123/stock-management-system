@@ -1,10 +1,21 @@
+# Stock Management System
+
+<p align="center">
+  <img src="https://github.com/123Satyajeet123/stock-management-system/assets/103361055/290d8c99-7096-46a7-b047-552619223ce7" alt="nextjs, mongodb banner" height=300rem>
+</p>
+
+This project is inventory managemnet system where we can add, edit and delete items. It is made using NextJS as a server-side rendering website and have a mongodb database to store the data.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## How To Use
 
 First, run the development server:
 
 ```bash
+npm install
+```
+```
 npm run dev
 # or
 yarn dev
